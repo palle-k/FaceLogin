@@ -1,0 +1,5 @@
+face_recognition
+opencv-python
+pyobjc-framework-Quartz
+numpy
+keyring
