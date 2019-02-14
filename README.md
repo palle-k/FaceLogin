@@ -2,7 +2,7 @@
 
 Unlocks your Mac with your face
 
-## Setup
+### Setup
 
 Requires Python 3.6
 
@@ -12,13 +12,13 @@ git clone https://github.com/palle-k/FaceLogin.git
 ./FaceLogin/configure.py
 ```
 
-## Running
+### Running
 
 ```bash
 ./FaceLogin/main.py
 ```
 
-## Disclaimer
+### Disclaimer
 
-The security of your system may be reduced by using this project. 
+The security of your system will be reduced by using this project. 
 It may unlock your computer when shown a picture of your face.
